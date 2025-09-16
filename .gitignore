@@ -11,7 +11,9 @@ __Previews
 *.log
 *.htm
 *.$$$
-
+# Bỏ qua thư mục tool
+tool/
+Firmware/link github anh thang.txt
 #useless dirs
 Project\ Outputs
 Project\ Logs

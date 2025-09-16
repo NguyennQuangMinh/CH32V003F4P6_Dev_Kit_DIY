@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//Core/core_riscv.h=GBK
+encoding//User/ch32x035_it.c=GBK
+encoding//User/main.c=GBK
+encoding//User/system_ch32x035.c=GBK
+encoding//User/system_ch32x035.h=GBK
