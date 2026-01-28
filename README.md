@@ -1,13 +1,63 @@
-1) Board
-   
-<img width="810" height="686" alt="Screenshot 2025-09-22 213659" src="https://github.com/user-attachments/assets/d285cc10-35a7-4cf0-a9ca-3af3a44c6608" />
+# CH32V003F4P6_Dev_Kit_DIY
 
+## 🛠️ Project Overview
 
+This project involves designing a two-layer PCB using Altium Designer for the CH32V003F4P6 Dev Kit DIY. All components, footprints, schematics, and 3D models were custom-created and assembled with me.
 
+## Design Files 
 
+### 🔹 Schematic
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Schematic.png" />
+</p>
 
+### ✅ Top Layer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Top_Layer.png" />
+</p>
 
-2) Multi_Board
+### ✅ Bottom Layer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Bottom_Layer.png" />
+</p>>
 
+### ✅ Top Overlay
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Top_Overlay.png" />
+</p>>
 
-<img width="821" height="725" alt="Screenshot 2025-09-22 213" src="https://github.com/user-attachments/assets/ff514e7b-6542-454b-bb5e-1a27732abd8a" />
+### ✅ Final Layout
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Final_Layout.png" />
+</p>
+
+### ✅ 3D Model Top View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Top_Layer_3D.png" />
+</p>
+
+### ✅ 3D Model Bottom View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Bottom_Layer_3D.png" />
+</p>
+
+### ✅ 3D Model Multi Board View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyennQuangMinh/CH32V003F4P6_Dev_Kit_DIY/main/Documents/Image/Multiboard.png" />
+</p>
+
+## Output Files
+### Gerber Files
+- Gerber files are used for PCB manufacturing.
+### Bill of Materials (BOM)
+- Lists all components used in the project.
+### NC Drill Files
+- Used for drilling holes in the PCB.
+### PDF Schematic
+- A PDF version of the schematic for easy reference.
+### 3D STEP File
+- A 3D model of the PCB.
+### Assembly Drawings
+- Detailed drawings for PCB assembly.
+### Pick and Place Files
+- Files for automated component placement.
